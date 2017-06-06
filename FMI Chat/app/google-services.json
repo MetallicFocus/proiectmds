@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757922703875",
+    "firebase_url": "https://fmichat-fca1b.firebaseio.com",
+    "project_id": "fmichat-fca1b",
+    "storage_bucket": "fmichat-fca1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757922703875:android:1e7233c49566767f",
+        "android_client_info": {
+          "package_name": "com.example.bobo.fmichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757922703875-266em06skf6e8b3ckbvi516sr6ufkuje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKc5htdeYTddVtp4Y6s4J-Tznkz55aHFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
