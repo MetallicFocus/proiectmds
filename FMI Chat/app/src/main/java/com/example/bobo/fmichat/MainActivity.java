@@ -117,7 +117,6 @@ public class MainActivity extends AppCompatActivity {
                 request_user_name();
             }
         });
-        builder.show();
+        builder.show(); //OK
     }
- //OK
 }
